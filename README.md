@@ -42,6 +42,6 @@
 ### 💫 What I’m up to
 - Exploring AI/ML projects
 - Learning new coding languages
-- Collaborating on fun and meaningful projects with students
+- Collaborating on fun and meaningful projects
 - Exploring new music, movies & anime (Give me some recs!)
 ---
