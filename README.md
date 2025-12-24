@@ -1,6 +1,6 @@
-# Hey there! 👋
+# welcome to my corner of the internet 👋
 
-### I’m Farzana, a 3rd-year Computer Science student. I like building software.
+i’m Farzana, a 3rd-year Computer Science student. I like building software.
 
 ---
 
