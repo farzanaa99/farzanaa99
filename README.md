@@ -1,4 +1,4 @@
-# iHey, I’m Farzana, a 3rd-year computer science student. i like building software. 
+# Hey, I’m Farzana, a 3rd-year computer science student. I like building software. 
 
 ---
 
