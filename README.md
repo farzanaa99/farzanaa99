@@ -1,6 +1,4 @@
-# welcome to my corner of the internet 👋
-
-i’m Farzana, a 3rd-year Computer Science student. I like building software.
+# welcome to my corner of the internet. i’m Farzana, a 3rd-year computer ccience student. i like building software. let's connect :)
 
 ---
 
