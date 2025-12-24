@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### I’m Farzana, a 3rd-year Computer Science student focused on software engineering, AI, and practical coding projects!
+### I’m Farzana, a 3rd-year Computer Science student. I like building software.
 
 ---
 
@@ -29,6 +29,6 @@
 
 ### 💫 What I’m up to
 - Learning new coding languages
-- Collaborating on fun and meaningful projects
+- Collaborating on fun projects
 - Exploring new music, movies & anime (Give me some recs!)
 ---
