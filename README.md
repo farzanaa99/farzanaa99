@@ -2,7 +2,7 @@
 **I am currently a Computer Science Student @ York University**
 
 ### 💮 About Me
-I’m passionate about exploring new technologies, tackling challenging problems, and building software that makes an impact. 
+I like exploring new technologies, tackling challenging problems, and building software. 
 
 ### 📫 Connect with Me
 
@@ -25,6 +25,12 @@ I’m passionate about exploring new technologies, tackling challenging problems
 
 ### 💫 Currently
 - Learning new programming languages & frameworks  
-- Collaborating on fun projects & hackathons  
+- Collaborating on fun projects & want to attend more hackathons
 - Exploring music, movies & anime 🎵🎬📺 (Send me recs!)
+
+### 🎧 Currently Listening
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=chocolatechipcookie_603&cover_image=true&theme=default)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+
+
 
