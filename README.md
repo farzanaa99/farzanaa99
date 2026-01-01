@@ -7,9 +7,10 @@ I’m passionate about exploring new technologies, tackling challenging problems
 
 ### 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/?style=flat&logo=gmail&logoColor=white)](mailto:farzana99@outlook.com)  
-[![Website](https://img.shields.io/badge/?style=flat&logo=github&logoColor=white)](https://farzanaa99.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana99/)
+[![Gmail](https://img.shields.io/badge/-_gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:farzana99@outlook.com)  
+[![Website](https://img.shields.io/badge/-_github-0a66c2?style=flat&logo=github&logoColor=white)](https://farzanaa99.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/-_linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana99/)
+
 
 
 
