@@ -28,10 +28,5 @@ I like exploring new technologies, tackling challenging problems, and building s
 - Collaborating on fun projects & want to attend more hackathons
 - Exploring music, movies & anime 🎵🎬📺 (Send me recs!)
 
-### 🎧 Currently Listening
-[![Spotify](https://spotify-readme.now.sh/api/spotify?user=chocolatechipcookie_603)](https://open.spotify.com/user/chocolatechipcookie_603)
-
-
-
 
 
