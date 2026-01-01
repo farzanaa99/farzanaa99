@@ -18,10 +18,10 @@ I’m passionate about exploring new technologies, tackling challenging problems
 
 ### 🚀 Featured Projects
 
-- [**Hackabot**](https://github.com/zana9999/HackaBot) 🤖 – Aggregates hackathons from MLH & Devpost. **Tech:** Python, APIs  
-- [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Tracks personal expenses & budgets. **Tech:** Java, Swing  
-- [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics & health info. **Tech:** Python, ML  
-- [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX app to efficiently manage book records. **Tech:** JavaFX  
+- [**Hackabot**](https://github.com/zana9999/HackaBot) 🤖 – Aggregates hackathons from MLH & Devpost. 
+- [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Tracks personal expenses & budgets. 
+- [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics & health info. 
+- [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX app to efficiently manage book records.  
 
 
 ### 💫 Currently
