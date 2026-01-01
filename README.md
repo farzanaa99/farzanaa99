@@ -1,5 +1,4 @@
-# Hey there, I’m Farzana :) 
-# I'm a computer science student @ York University
+# Hey there, I’m Farzana :) I'm a computer science student @ York University
 
 ### About me
 I like to explore new technologies, tackle challenges, and create software.
