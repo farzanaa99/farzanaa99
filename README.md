@@ -1,6 +1,14 @@
-# Hey, I’m Farzana, a 3rd-year computer science student.
+# Hey there, I’m Farzana :) 
+I'm a computer science student @ York University
 
 ---
+### About me
+I like to explore new technologies, tackle challenges, and create software.
+
+### Connect with me !
+Email: farzana99@outlook.com
+Website: https://farzanaa99.github.io/
+Linkedin: https://www.linkedin.com/in/farzana99/
 
 ### 🛠 Skills & Tools
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -27,6 +35,6 @@
 
 ### 💫 What I’m up to
 - Learning new coding languages
-- Collaborating on fun projects
+- Collaborating on fun projects 
 - Exploring new music, movies & anime (Give me some recs!)
 ---
