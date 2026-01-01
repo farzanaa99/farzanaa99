@@ -1,19 +1,15 @@
 # 👋 Hey there, I’m Farzana!  
 **Computer Science Student @ York University** 
 
----
-
 ### About Me
-I’m passionate about exploring new technologies, tackling challenging problems, and building software that makes an impact. I love learning by doing and collaborating on projects that push my skills further.
+I’m passionate about exploring new technologies, tackling challenging problems, and building software that makes an impact. 
 
----
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-farzana99%40outlook.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:farzana99@outlook.com)  
 [![Website](https://img.shields.io/badge/Website-farzanaa99.github.io-0a66c2?style=flat&logo=github&logoColor=white)](https://farzanaa99.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farzana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana99/)
 
----
 
 ### 🛠 Skills & Tools
 
@@ -32,23 +28,20 @@ I’m passionate about exploring new technologies, tackling challenging problems
 **Backend / Tools:**  
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
 
----
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 - [**Hackabot**](https://github.com/zana9999/HackaBot) 🤖 – Aggregates hackathons from MLH & Devpost. **Tech:** Python, APIs  
 - [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Tracks personal expenses & budgets. **Tech:** Java, Swing  
 - [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics & health info. **Tech:** Python, ML  
 - [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX app to efficiently manage book records. **Tech:** JavaFX  
 
----
 
 ### 💫 Currently
 - Learning new programming languages & frameworks  
 - Collaborating on fun projects & hackathons  
 - Exploring music, movies & anime 🎵🎬📺 (Send me recs!)
 
----
 
 ### 📊 GitHub Stats
 
