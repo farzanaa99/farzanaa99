@@ -7,7 +7,7 @@ I like exploring new technologies, tackling challenging problems, and building s
 ### 📫 Connect with Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:farzana99@outlook.com)
-[![Website](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg)](https://farzanaa99.github.io/)
+[![Website](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/web.svg)](https://farzanaa99.github.io/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/farzana99/)
 
 
