@@ -29,7 +29,8 @@ I like exploring new technologies, tackling challenging problems, and building s
 - Exploring music, movies & anime 🎵🎬📺 (Send me recs!)
 
 ### 🎧 Currently Listening
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=chocolatechipcookie_603&cover_image=true&theme=default)](https://open.spotify.com/user/chocolatechipcookie_603)
+[![Spotify Now Playing](https://novatorem-now-playing.vercel.app/api/spotify?user=chocolatechipcookie_603)](https://open.spotify.com/user/chocolatechipcookie_603)
+
 
 
 
