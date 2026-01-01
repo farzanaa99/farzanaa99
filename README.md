@@ -1,5 +1,5 @@
-# 👋 Hey there, I’m Farzana!  
-**I am currently a Computer Science Student @ York University** 
+# Hey there, I’m Farzana!  
+# **I am currently a Computer Science Student @ York University** 
 
 ### About Me
 I’m passionate about exploring new technologies, tackling challenging problems, and building software that makes an impact. 
