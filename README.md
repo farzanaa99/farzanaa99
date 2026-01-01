@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Farzana!  
-**Computer Science Student @ York University** 
+**I am currently a Computer Science Student @ York University** 
 
 ### About Me
 I’m passionate about exploring new technologies, tackling challenging problems, and building software that makes an impact. 
@@ -7,9 +7,9 @@ I’m passionate about exploring new technologies, tackling challenging problems
 
 ### 📫 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" style="color:#XXXXXX;"/>](mailto:farzana99@outlook.com)
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="Website" width="30" style="color:#XXXXXX;"/>](https://farzanaa99.github.io/)
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" style="color:#XXXXXX;"/>](https://www.linkedin.com/in/farzana99/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:farzana99@outlook.com)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Website" width="30"/>](https://farzanaa99.github.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/farzana99/)
 
 
 ### 🛠 Skills & Tools
