@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Farzana!  
-**Computer Science Student @ York University** | Class of 2026 | Toronto, Canada  
+**Computer Science Student @ York University** 
 
 ---
 
