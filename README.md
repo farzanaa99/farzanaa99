@@ -20,7 +20,6 @@ I like exploring new technologies, tackling challenging problems, and building s
 - [**Hackabot**](https://github.com/zana9999/HackaBot) 🤖 – Aggregates hackathons from MLH & Devpost. 
 - [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Tracks personal expenses & budgets. 
 - [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics & health info. 
-- [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX app to efficiently manage book records.  
 
 
 ### 💫 Currently
