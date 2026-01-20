@@ -2,7 +2,7 @@
 **I am currently a Computer Science Student @ York University**
 
 ### 💮 About Me
-I like exploring new technologies, tackling challenging problems, and building software. 
+I like exploring new technologies, tackling challenging problems, and building software! 
 
 ### 📫 Connect with Me
 
