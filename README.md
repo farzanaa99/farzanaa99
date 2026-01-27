@@ -25,7 +25,5 @@ I like exploring new technologies, tackling challenging problems, and building s
 ### 💫 Currently
 - Learning new programming languages & frameworks  
 - Collaborating on fun projects & want to attend more hackathons
-- Exploring music, movies & anime 🎵🎬📺 (Send me recs!)
-
 
 
