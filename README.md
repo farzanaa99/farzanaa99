@@ -18,5 +18,3 @@ java · python · typescript · sql · react · spring boot · postgreSQL
 
 ### ↳ connect
 [email](mailto:farzana99@outlook.com) · [website](https://farzanaa99.github.io/) · [linkedIn](https://www.linkedin.com/in/farzana99/)
-
-
