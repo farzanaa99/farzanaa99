@@ -11,7 +11,7 @@ I enjoy building software, learning new technologies, and solving problems.
 Java · Python · TypeScript · SQL · React · Spring Boot · PostgreSQL · Docker
 
 ### Projects
-· [RateMySupplements](https://ratemysupp.com)
+· [RateMySupplements](https://ratemysupp.com) \n
 · [Hackabot](https://github.com/zana9999/HackaBot)
 · [Personal Finance Tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)
 · [Health Insurance Predictor](https://github.com/zana9999/HealthInsurancePredictor)
