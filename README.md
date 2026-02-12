@@ -1,22 +1,22 @@
-# Hey there, I’m Farzana! 
-**Computer Science Student @ York University**
+# hello there, i’m farzana! 
+**computer science student @ york university**
 
-### About Me
-I enjoy building software, learning new technologies, and solving problems.
+### about-me
+i enjoy building software, learning new technologies, and solving problems.
 
-### Experience
-Software Developer · Riipen Level Up
+### experience
+software developer · riipen level up
 
-### Projects
-[RateMySupplements](https://ratemysupp.com)  
-[Hackabot](https://github.com/zana9999/HackaBot)  
-[Personal Finance Tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)  
-[Health Insurance Predictor](https://github.com/zana9999/HealthInsurancePredictor)
+### projects
+[ratemysupplements](https://ratemysupp.com)  
+[hackabot](https://github.com/zana9999/HackaBot)  
+[personal finance tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)  
+[health insurance predictor](https://github.com/zana9999/HealthInsurancePredictor)
 
-### Tech
-Java · Python · TypeScript · SQL · React · Spring Boot · PostgreSQL
+### tech
+java · python · typescript · sql · react · spring boot · postgreSQL
 
-### Connect
-[Email](mailto:farzana99@outlook.com) · [Website](https://farzanaa99.github.io/) · [LinkedIn](https://www.linkedin.com/in/farzana99/)
+### connect
+[email](mailto:farzana99@outlook.com) · [website](https://farzanaa99.github.io/) · [linkedIn](https://www.linkedin.com/in/farzana99/)
 
 
