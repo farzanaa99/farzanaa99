@@ -1,5 +1,5 @@
 # `hello there, i’m farzana!` 
-`computer science student @ york university`
+computer science student @ york university
 
 ### `↳` about-me
 i enjoy building software, learning new technologies, and solving problems.
