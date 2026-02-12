@@ -4,19 +4,19 @@
 ### ↳ about-me
 i enjoy building software, learning new technologies, and solving problems.
 
-### experience
+### ↳ experience
 software developer · riipen level up
 
-### projects
+### ↳ projects
 [ratemysupplements](https://ratemysupp.com)  
 [hackabot](https://github.com/zana9999/HackaBot)  
 [personal finance tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)  
 [health insurance predictor](https://github.com/zana9999/HealthInsurancePredictor)
 
-### tech
+### ↳ tech
 java · python · typescript · sql · react · spring boot · postgreSQL
 
-### connect
+### ↳ connect
 [email](mailto:farzana99@outlook.com) · [website](https://farzanaa99.github.io/) · [linkedIn](https://www.linkedin.com/in/farzana99/)
 
 
