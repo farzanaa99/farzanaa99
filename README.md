@@ -1,10 +1,10 @@
 # Hey there, I’m Farzana! 
-**⌞Computer Science Student @ York University⌝**
+**Computer Science Student @ York University**
 
-### ↪ About Me
+### ➥ About Me
 I enjoy building software, learning new technologies, and solving problems.
 
-### ↪ Experience
+### ➥ Experience
 - Software Developer · Riipen Level Up
 
 ### ↪ Tech
