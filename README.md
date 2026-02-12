@@ -5,13 +5,13 @@
 I enjoy building software, learning new technologies, and solving problems.
 
 ### Experience
-- Software Developer · Riipen Level Up
+Software Developer · Riipen Level Up
 
 ### Projects
-- [RateMySupplements](https://ratemysupp.com)
-- [Hackabot](https://github.com/zana9999/HackaBot)
-- [Personal Finance Tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)
-- [Health Insurance Predictor](https://github.com/zana9999/HealthInsurancePredictor)
+[RateMySupplements](https://ratemysupp.com)  
+[Hackabot](https://github.com/zana9999/HackaBot)  
+[Personal Finance Tracker](https://github.com/zana9999/PersonalFinanceTrackerTrace)  
+[Health Insurance Predictor](https://github.com/zana9999/HealthInsurancePredictor)
 
 ### Tech
 Java · Python · TypeScript · SQL · React · Spring Boot · PostgreSQL
