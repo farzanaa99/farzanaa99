@@ -1,5 +1,5 @@
 # hello there, i’m farzana! 
-**computer science student @ york university**
+*computer science student @ york university*
 
 ### ↳ about-me
 i enjoy building software, learning new technologies, and solving problems.
@@ -14,7 +14,7 @@ software developer · riipen level up
 [health insurance predictor](https://github.com/zana9999/HealthInsurancePredictor)
 
 ### ↳ tech
-java · python · typescript · sql · react · spring boot · postgreSQL
+java · python · typescript · sql · react · spring boot · postgresql
 
 ### ↳ connect
-[email](mailto:farzana99@outlook.com) · [website](https://farzanaa99.github.io/) · [linkedIn](https://www.linkedin.com/in/farzana99/)
+[email](mailto:farzana99@outlook.com) · [website](https://farzanaa99.github.io/) · [linkedin](https://www.linkedin.com/in/farzana99/)
