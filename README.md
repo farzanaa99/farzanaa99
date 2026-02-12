@@ -7,15 +7,10 @@ I enjoy building software, learning new technologies, and solving problems.
 ### Experience
 - Software Developer · Riipen Level Up
 
-### 📫 Connect with Me
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30"/>](mailto:farzana99@outlook.com)
-[<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f310.png" alt="Website" width="30"/>](https://farzanaa99.github.io/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/farzana99/)
-
-
 ### 🛠 Skills & Tools
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+
+Java · C · Python · SQL · React · Angular · Spring Boot
 
 
 ### Projects
@@ -25,7 +20,7 @@ I enjoy building software, learning new technologies, and solving problems.
 - [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) – Predicts insurance charges based on demographics & health info.
 
 
-### Links
+### Connect
 [Email](mailto:farzana99@outlook.com) · [Website](https://farzanaa99.github.io/) · [LinkedIn](https://www.linkedin.com/in/farzana99/)
 
 
