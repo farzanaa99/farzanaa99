@@ -5,7 +5,7 @@ computer science student @ york university
 i enjoy building software, learning new technologies, and solving problems.
 
 ### `↳` experience
-sde @ pharma 360 solutions inc. via riipen level up
+sde @ riipen level up
 
 ### `↳` projects
 [ratemysupplements](https://ratemysupp.com)  
