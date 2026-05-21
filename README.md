@@ -5,7 +5,7 @@ computer science student @ york university
 i enjoy building software, learning new technologies, and solving problems.
 
 ### `↳` experience
-sde @ riipen level up
+software developer - riipen level up
 
 ### `↳` projects
 [ratemysupplements](https://ratemysupp.com)  
