@@ -1,4 +1,4 @@
-# **hello there, i’m farzana!**
+# **farzana**
 computer science student @ york university
 
 ### `↳` about me
