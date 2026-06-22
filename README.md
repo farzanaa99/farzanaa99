@@ -6,6 +6,7 @@ i enjoy building software, learning new technologies, and solving problems.
 
 ### `↳` experience
 software developer - riipen level up
+quality assurance engineer intern - canadian institute for health information (cihi)
 
 ### `↳` projects
 [ratemysupplements](https://ratemysupp.com)  
