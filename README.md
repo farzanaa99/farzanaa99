@@ -5,8 +5,8 @@ computer science student @ york university
 i enjoy building software, learning new technologies, and solving problems!
 
 ### ↳ experience
-software developer - riipen level up  
 quality assurance intern - canadian institute for health information (cihi)
+software developer - riipen level up
 
 ### `↳` projects
 [ratemysupplements](https://ratemysupp.com)  
