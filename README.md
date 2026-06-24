@@ -2,7 +2,7 @@
 computer science student @ york university
 
 ### `↳` about me
-i enjoy building software, learning new technologies, and solving problems.
+i enjoy building software, learning new technologies, and solving problems!
 
 ### ↳ experience
 software developer - riipen level up  
