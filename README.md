@@ -9,11 +9,12 @@ quality assurance intern - canadian institute for health information (cihi)
 software developer - riipen level up
 
 ### `↳` projects
-[ratemysupplements](https://ratemysupp.com)
-[ridematch](https://github.com/farzanaa99/RideMatch)
-[hackabot](https://github.com/farzanaa99/HackaBot)
-[personal finance tracker - trace](https://github.com/farzanaa99/PersonalFinanceTrackerTrace)
-[health insurance predictor](https://github.com/farzanaa99/HealthInsurancePredictor)
+
+- [ratemysupplements](https://ratemysupp.com)
+- [ridematch](https://github.com/farzanaa99/RideMatch)
+- [hackabot](https://github.com/farzanaa99/HackaBot)
+- [personal finance tracker - trace](https://github.com/farzanaa99/PersonalFinanceTrackerTrace)
+- [health insurance predictor](https://github.com/farzanaa99/HealthInsurancePredictor)
 
 ### `↳` tech
 java · python · typescript · sql · react · spring boot · postgresql
